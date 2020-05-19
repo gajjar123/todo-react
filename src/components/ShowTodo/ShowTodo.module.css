@@ -1,0 +1,33 @@
+.ShowTodo {
+    text-align: left;
+    margin: 15px;
+    padding: 15px;
+    width: 470px;
+    box-shadow: cadetblue;
+    border: 1px solid gray;
+}
+
+.ShowTodo .checkbox {
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}
+
+.ShowTodo .completed {
+    text-decoration: line-through;
+}
+
+.ShowTodo .text{
+    width: 300px;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+.ShowTodo .link{
+    background-color: orange;
+    color: white;
+    border: 1px solid black;
+    float: right;
+    width: 50px;
+    height: 25px;
+}
